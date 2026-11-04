@@ -47,6 +47,7 @@ My goal is to become a well-rounded data analyst who can turn data into meaningf
 ## Connect
 
 - **GitHub:** [@horlaytan04](https://github.com/horlaytan04)
+- **LinkedIn:** [linkedin.com/in/hammed-raheem-a87228443](https://linkedin.com/in/hammed-raheem-a87228443)
 
 ---
 
