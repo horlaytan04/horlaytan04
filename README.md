@@ -1,26 +1,48 @@
-# Raheem Hammed
+# Raheem Hammed | Data Analyst
 
-I am developing my skills in **Data Analysis and Business Intelligence**, with a focus on using **Microsoft Excel and Microsoft Power BI** to organise, understand, and communicate data.
+I am a **Data Analyst** focused on developing practical skills in **data analysis and business intelligence**, with particular interest in using **Microsoft Excel and Microsoft Power BI** to transform raw data into clear, useful information.
+
+I enjoy exploring data, identifying patterns and trends, and presenting findings in a way that supports better understanding and informed decision-making. I am continuously strengthening my technical and analytical abilities through learning and practical exercises.
 
 ## About Me
 
 - **Name:** Raheem Hammed
-- **Professional interest:** Data Analysis
-- **Area of focus:** Business Intelligence
-- **Tools:** Microsoft Excel and Microsoft Power BI
-- **Currently learning:** Power Query, data modelling, DAX fundamentals, and dashboard development
+- **Professional title:** Data Analyst
+- **Field:** Data Analysis & Business Intelligence
+- **Primary tools:** Microsoft Excel and Microsoft Power BI
+- **Areas of interest:** Data cleaning, data transformation, analysis, reporting, and data visualization
 
-## Skills and Learning Areas
+## Technical Skills & Tools
 
-- Data cleaning and preparation
-- Excel formulas, PivotTables, and charts
-- Power Query data transformation
-- Power BI reports and interactive dashboards
-- Exploring data, identifying patterns, and presenting findings
+| Tool / Skill | Areas of focus |
+|---|---|
+| **Microsoft Excel** | Data cleaning, formulas, sorting and filtering, PivotTables, charts, and reporting |
+| **Power Query** | Importing, transforming, and preparing datasets |
+| **Microsoft Power BI** | Data modelling, DAX fundamentals, interactive reports, and dashboards |
+| **Data Analysis** | Exploring datasets, identifying patterns, examining trends, and drawing meaningful insights |
+| **Data Visualization** | Presenting information through clear charts, reports, and dashboards |
+
+## Analytical Approach
+
+My approach to working with data is to:
+
+1. Understand the data and the question that needs to be answered.
+2. Clean and prepare the data for analysis.
+3. Explore the information to identify patterns and trends.
+4. Present findings through clear reports and visualizations.
+5. Communicate insights in a simple and useful way.
+
+## Current Learning Focus
+
+- Improving Excel analysis and reporting techniques.
+- Building stronger Power Query transformation skills.
+- Developing Power BI data modelling and DAX knowledge.
+- Creating clear, interactive dashboards.
+- Improving data storytelling and analytical problem-solving.
 
 ## Professional Goal
 
-My goal is to keep improving my analytical, problem-solving, and data communication skills, and to use data to support clear and informed decisions.
+My goal is to become a well-rounded data analyst who can turn data into meaningful insights, communicate findings effectively, and support informed business decisions. I value continuous learning, accuracy, and clear presentation.
 
 ## Connect
 
@@ -28,4 +50,4 @@ My goal is to keep improving my analytical, problem-solving, and data communicat
 
 ---
 
-*Always learning and improving.*
+*Committed to continuous learning and growth in data analytics.*
