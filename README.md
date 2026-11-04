@@ -1,39 +1,53 @@
-# Hi, I'm a Data Analyst in Progress 👋
+# Raheem Hammed | Data Analyst Portfolio
 
-I am building my skills in **data analysis, business intelligence, and data storytelling**, with a current focus on **Microsoft Excel** and **Power BI**.
+Welcome to my GitHub portfolio. I am developing practical skills in **data analysis and business intelligence**, with a current focus on **Microsoft Excel and Power BI**.
 
-I enjoy turning raw data into clear insights that help people understand performance, identify trends, and make informed decisions.
+I enjoy working with data to uncover useful patterns, communicate findings clearly, and support informed decision-making. This portfolio documents my learning, practical exercises, and projects as I continue strengthening my analytical skills.
 
-## 🧰 Tools & Skills
+## About Me
 
-- **Microsoft Excel** — data cleaning, formulas, sorting and filtering, PivotTables, charts, and reporting.
-- **Power BI** — data preparation with Power Query, data modelling, DAX fundamentals, and interactive dashboards.
-- **Data analysis** — exploring datasets, identifying patterns, and communicating findings.
+- **Name:** Raheem Hammed
+- **Focus:** Data Analysis & Business Intelligence
+- **Primary tools:** Microsoft Excel and Microsoft Power BI
+- **Portfolio goal:** Build clear, well-documented projects that demonstrate analytical thinking and practical problem-solving.
 
-*This profile reflects my current learning focus. I am continuously developing and documenting my practical skills.*
+## Tools & Current Skills
 
-## 📊 Portfolio Projects
+| Tool / Area | Current focus |
+|---|---|
+| Microsoft Excel | Data cleaning, formulas, sorting and filtering, PivotTables, charts, and reporting |
+| Power Query | Importing, transforming, and preparing data |
+| Power BI | Data modelling, DAX fundamentals, interactive reports, and dashboards |
+| Data analysis | Exploring datasets, identifying trends, and communicating insights |
 
-I use my repositories to document hands-on exercises and projects as I grow my portfolio.
+I describe these as my current learning and practice areas; I will update this section as I gain more project experience.
 
-- [Power BI Projects](https://github.com/horlaytan04/Power-BI-Project) — Power BI practice and dashboard projects.
-- [Excel Projects](https://github.com/horlaytan04/Exel-Project) — Excel-based analysis and reporting exercises.
+## Portfolio Projects
 
-## 🌱 Currently Learning
+Explore my current project repositories:
 
-- Improving my Excel analysis and reporting workflow.
-- Building interactive Power BI dashboards.
-- Strengthening data modelling and DAX fundamentals.
-- Presenting analytical findings clearly and professionally.
+- **[Power BI Projects](https://github.com/horlaytan04/Power-BI-Project)** — Power BI exercises, report development, and dashboard work.
+- **[Excel Projects](https://github.com/horlaytan04/Exel-Project)** — Excel-based data preparation, analysis, and reporting.
+- **[Power BI Modeling MCP](https://github.com/horlaytan04/powerbi-modeling-mcp)** — A separate technical repository related to Power BI modelling.
 
-## 🤝 Collaboration
+For each project, I aim to document the business question, dataset, preparation steps, analysis, visuals, and key findings.
 
-I am open to learning opportunities, constructive feedback, and collaborating on beginner-friendly data analysis projects.
+## Currently Developing
 
-## 📫 Find Me on GitHub
+- More effective Excel analysis and reporting workflows.
+- Power Query data transformation techniques.
+- Power BI data modelling and DAX.
+- Clear dashboard design and data storytelling.
+- Better project documentation and version-control practices with GitHub.
 
-- GitHub: [@horlaytan04](https://github.com/horlaytan04)
+## Collaboration
+
+I welcome constructive feedback and opportunities to collaborate on learning-focused data analysis and business intelligence projects.
+
+## Connect
+
+- **GitHub:** [@horlaytan04](https://github.com/horlaytan04)
 
 ---
 
-*Thanks for visiting my profile. Feel free to explore my repositories as I continue building my data analytics portfolio.*
+*Thank you for visiting my portfolio. I am continuously learning, building, and documenting my progress in data analytics.*
