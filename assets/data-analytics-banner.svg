@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071629"/><stop offset=".55" stop-color="#102d55"/><stop offset="1" stop-color="#07111f"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#36b7ff"/><stop offset="1" stop-color="#6b7cff"/></linearGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#8dbbff" stroke-opacity=".10"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/><rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+<circle cx="1040" cy="70" r="170" fill="#237dff" opacity=".09"/><circle cx="170" cy="300" r="190" fill="#26b8ff" opacity=".07"/>
+<g fill="#55baff" opacity=".8"><rect x="770" y="190" width="34" height="78" rx="5"/><rect x="820" y="148" width="34" height="120" rx="5"/><rect x="870" y="112" width="34" height="156" rx="5"/><rect x="920" y="82" width="34" height="186" rx="5"/></g>
+<path d="M760 170 L835 128 L890 145 L970 72 L1050 95 L1120 42" fill="none" stroke="#9bdcff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#d9f3ff"><circle cx="760" cy="170" r="6"/><circle cx="835" cy="128" r="6"/><circle cx="890" cy="145" r="6"/><circle cx="970" cy="72" r="6"/><circle cx="1050" cy="95" r="6"/><circle cx="1120" cy="42" r="6"/></g>
+<text x="72" y="94" fill="#8dd5ff" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="4">DATA ANALYTICS • BUSINESS INTELLIGENCE</text>
+<text x="68" y="164" fill="#ffffff" font-family="Arial,sans-serif" font-size="58" font-weight="700">RAHEEM HAMMED</text>
+<text x="72" y="211" fill="#d9e8ff" font-family="Arial,sans-serif" font-size="29" font-weight="600" letter-spacing="5">DATA ANALYST</text>
+<path d="M72 235H520" stroke="url(#blue)" stroke-width="4" stroke-linecap="round"/>
+<text x="72" y="277" fill="#b9cbe3" font-family="Arial,sans-serif" font-size="21">Excel  •  Power BI  •  Power Query  •  DAX</text>
+<text x="760" y="296" fill="#d4e9ff" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">TURNING DATA INTO MEANINGFUL INSIGHTS</text>
+</svg>
