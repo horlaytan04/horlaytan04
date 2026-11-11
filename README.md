@@ -1,54 +1,76 @@
-# Raheem Hammed | Data Analyst
+<!-- Profile banner -->
+<p align="center">
+  <img src="assets/data-analytics-banner.svg" alt="Raheem Hammed — Data Analyst" width="100%" />
+</p>
 
-I am a **Data Analyst** focused on developing practical skills in **data analysis and business intelligence**, with particular interest in using **Microsoft Excel and Microsoft Power BI** to transform raw data into clear, useful information.
+<h1 align="center">Hi, I'm Raheem Hammed 👋</h1>
+<h3 align="center">Data Analyst | Excel • Power BI • Power Query • DAX</h3>
 
-I enjoy exploring data, identifying patterns and trends, and presenting findings in a way that supports better understanding and informed decision-making. I am continuously strengthening my technical and analytical abilities through learning and practical exercises.
+<p align="center">
+  <a href="https://horlaytan04.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
+  </a>
+  <a href="https://linkedin.com/in/hammed-raheem-a87228443">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/horlaytan04">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-## About Me
+## 👨‍💻 About Me
 
-- **Name:** Raheem Hammed
-- **Professional title:** Data Analyst
-- **Field:** Data Analysis & Business Intelligence
-- **Primary tools:** Microsoft Excel and Microsoft Power BI
-- **Areas of interest:** Data cleaning, data transformation, analysis, reporting, and data visualization
+I am a **Data Analyst** focused on transforming raw data into meaningful insights using **Microsoft Excel** and **Microsoft Power BI**. I work with data cleaning, transformation, analysis, modelling, calculations, and visualization to support informed decision-making.
 
-## Technical Skills & Tools
+I enjoy exploring datasets, identifying patterns and trends, and presenting findings through clear reports and dashboards.
 
-| Tool / Skill | Areas of focus |
-|---|---|
-| **Microsoft Excel** | Data cleaning, formulas, sorting and filtering, PivotTables, charts, and reporting |
-| **Power Query** | Importing, transforming, and preparing datasets |
-| **Microsoft Power BI** | Data modelling, DAX fundamentals, interactive reports, and dashboards |
-| **Data Analysis** | Exploring datasets, identifying patterns, examining trends, and drawing meaningful insights |
-| **Data Visualization** | Presenting information through clear charts, reports, and dashboards |
+## 🧰 Technical Skills & Tools
 
-## Analytical Approach
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power_Query-5A3E9B?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query" />
+  <img src="https://img.shields.io/badge/DAX-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="DAX" />
+</p>
 
-My approach to working with data is to:
+- 📊 **Microsoft Excel:** Data cleaning, formulas, PivotTables, charts, and reporting.
+- 🔄 **Power Query:** Data import, transformation, and preparation.
+- 📈 **Microsoft Power BI:** Data modelling, report development, dashboards, and visualization.
+- 🧮 **DAX:** Measures, calculations, and KPI development.
+- 🔎 **Data Analysis:** Exploring datasets, checking data quality, identifying patterns, and interpreting results.
 
-1. Understand the data and the question that needs to be answered.
-2. Clean and prepare the data for analysis.
-3. Explore the information to identify patterns and trends.
-4. Present findings through clear reports and visualizations.
-5. Communicate insights in a simple and useful way.
+## 🚀 Featured Projects
 
-## Current Learning Focus
+### 1. Demographic & Contact Data Analysis
+An Excel and Power BI project exploring demographic and contact data, including data quality checks, gender distribution, email-domain analysis, and dashboard reporting.
 
-- Improving Excel analysis and reporting techniques.
-- Building stronger Power Query transformation skills.
-- Developing Power BI data modelling and DAX knowledge.
-- Creating clear, interactive dashboards.
-- Improving data storytelling and analytical problem-solving.
+[View Project Repository](https://github.com/horlaytan04/Demographic-Contact-Data-Analysis)
 
-## Professional Goal
+### 2. Power BI Projects
+A collection of Power BI reports and exercises demonstrating data preparation, modelling, DAX calculations, and data visualization.
 
-My goal is to become a well-rounded data analyst who can turn data into meaningful insights, communicate findings effectively, and support informed business decisions. I value continuous learning, accuracy, and clear presentation.
+[View Project Repository](https://github.com/horlaytan04/Power-BI-Project)
 
-## Connect
+### 3. Excel Projects
+Practical projects and exercises focused on spreadsheet-based data preparation, analysis, and reporting.
 
+[View Project Repository](https://github.com/horlaytan04/Exel-Project)
+
+## 🎯 My Analytical Workflow
+
+1. Understand the dataset and the business question.
+2. Inspect, clean, and prepare the data using Excel and Power Query.
+3. Explore the data to identify patterns and trends.
+4. Model data and create relevant calculations using Power BI and DAX.
+5. Build clear visual reports and dashboards.
+6. Communicate findings in a useful and understandable way.
+
+## 🌐 Find Me Online
+
+- **Portfolio Website:** [horlaytan04.github.io/My-Portfolio](https://horlaytan04.github.io/My-Portfolio/)
+- **LinkedIn:** [Hammed Raheem](https://linkedin.com/in/hammed-raheem-a87228443)
 - **GitHub:** [@horlaytan04](https://github.com/horlaytan04)
-- **LinkedIn:** [linkedin.com/in/hammed-raheem-a87228443](https://linkedin.com/in/hammed-raheem-a87228443)
 
 ---
 
-*Committed to continuous learning and growth in data analytics.*
+<p align="center"><i>Turning data into meaningful insights.</i></p>
